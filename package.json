@@ -1,0 +1,26 @@
+{
+  "name": "adrien.log",
+  "version": "1.0.0",
+  "description": "The perfect javascript log tool for Adrien.log(e)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsellam/Adrien.log.git"
+  },
+  "keywords": [
+    "javascript",
+    "log",
+    "adrien",
+    "debug",
+    "console"
+  ],
+  "author": "Jeremie Sellam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsellam/Adrien.log/issues"
+  },
+  "homepage": "https://github.com/jsellam/Adrien.log#readme"
+}
